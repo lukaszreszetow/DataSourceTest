@@ -1,0 +1,2 @@
+rootProject.name='DataSourceLoop'
+include ':app'
